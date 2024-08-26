@@ -1,0 +1,2 @@
+[version]
+path = "src/feed_client/__about__.py"
