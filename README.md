@@ -65,6 +65,7 @@ optional arguments:
 Licensed under the [MIT License](https://github.com/synesis-toyo/FeedService?tab=MIT-1-ov-file).
 
 ## Contact
+https://www.synesis.tech/  
 [synesis-globalsales@toyo.co.jp](<mailto:synesis-globalsales@toyo.co.jp>)
 
 
