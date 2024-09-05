@@ -94,3 +94,7 @@ def main():
     sock.close()
     if args.output != "stdio":
         fb.close()
+
+
+if __name__ == "__main__":
+    main()
