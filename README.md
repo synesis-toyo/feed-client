@@ -18,7 +18,8 @@ Read this in other languages: [English](README.md), [日本語](README.ja.md).
 
 `feed-client` is a Python client program for the SYNESIS Feed Service. It allows users to stream captured packets from SYNESIS over a socket connection.
 
-![image](https://github.com/user-attachments/assets/a2b286ca-09b2-4730-ba21-1046c8a6371d)
+![image](https://github.com/user-attachments/assets/b9c46775-2f5e-4517-9f5f-2615dc2f22ac)
+
 
 1. SYNESIS/Capture: Receives packets via the network card (NIC).
 2. SYNESIS/ Capture: Stores packets in the packet data area.
