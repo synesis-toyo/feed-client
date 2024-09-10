@@ -4,9 +4,9 @@
 
 <!-- TOC -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>目次</summary>
   <ol>
-    <li><a href="#description">外用</a></li>
+    <li><a href="#description">概要</a></li>
     <li><a href="#installation">インストール方法</a></li>
     <li><a href="#usage">使用法</a></li>
     <li><a href="#license">ライセンス</a></li>
