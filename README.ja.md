@@ -57,9 +57,9 @@ feed-client [-h] [-f {pcap,pcapng,scap}] [-c [{A,B,C,D,E,F,G,H,all} [{A,B,C,D,E,
 | `-o`, `--output`     | 受信パケットを出力するファイル名を指定します。                                               | ファイル名                                        | 標準出力へパケットを出力します |
 
 ## ライセンス
-© TOYO Corporation
+© TOYO Corporation  
 Licensed under the [MIT License](https://github.com/synesis-toyo/FeedService?tab=MIT-1-ov-file).
 
 ## コンタクト
-https://www.synesis.tech/
+https://www.synesis.tech/  
 [synesis-globalsales@toyo.co.jp](<mailto:synesis-globalsales@toyo.co.jp>)
