@@ -64,7 +64,7 @@ feed-client [-h] [-f {pcap,pcapng,scap}] [-c [{A,B,C,D,E,F,G,H,all} [{A,B,C,D,E,
 Licensed under the [MIT License](https://github.com/synesis-toyo/FeedService?tab=MIT-1-ov-file).
 
 ## Contact
-https://www.synesis.tech/  
+[https://www.synesis.tech/](https://www.synesis.tech/en/)  
 [synesis-globalsales@toyo.co.jp](<mailto:synesis-globalsales@toyo.co.jp>)
 
 
