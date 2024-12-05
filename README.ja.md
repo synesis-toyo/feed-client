@@ -15,7 +15,7 @@
 </details>
 
 ## 概要
-`feed-client`はSYNESIS Feed ServiceようのPythonクライアントプログラムです。Feed Serviceとは、ソケットを介してSYNESISがキャプチャしたパケットを読み出す仕組みです。
+`feed-client`はSYNESIS Feed Service用のPythonクライアントプログラムです。Feed Serviceとは、ソケットを介してSYNESISがキャプチャしたパケットを読み出す仕組みです。
 ![image](https://github.com/user-attachments/assets/a2b286ca-09b2-4730-ba21-1046c8a6371d)
 
 1. SYNESIS/キャプチャ：ネットワークカードからパケットを受信します
